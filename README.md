@@ -6,6 +6,10 @@ This Project explores the following:
 - Exploring and performing assessments on recent state-of-the-art MM-RAGs (Gemini, Claude AI, ChatGPT v4)
 - Evaluating performance using metrics including quality, coherence, factual accuracy, computational efficiency, and context-awareness.
 
+The project Google_Gemini_multimodal_rag_DEMO.ipynb provides a guide to building a document search engine using multimodal retrieval augmented generation (RAG), step by step:
+
+1. Extracting and storing metadata of documents containing both text and images, and generate embeddings the documents
+2. Using a text query as input, search for contexual answers using both text and images
 
 ## Installation 
 
