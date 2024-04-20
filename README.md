@@ -16,8 +16,6 @@ The project Google_Gemini_multimodal_rag_DEMO.ipynb provides a guide to building
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install required libraries mentioned in the jupyter notebooks.
 
 
-## Usage
-
 
 ```
 
